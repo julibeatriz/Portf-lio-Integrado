@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.*
+dist/
+*.sqlite
+*.sqlite3
+*.db
+backend/public/
+coverage/
